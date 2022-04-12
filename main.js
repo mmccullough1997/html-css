@@ -1,1 +1,4 @@
 console.log('hello!');
+
+// SNEAK PEEK
+// document.querySelector('article').innerHTML = 'From JS';
